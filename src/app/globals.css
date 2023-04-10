@@ -105,3 +105,20 @@ a {
     color-scheme: dark;
   }
 }
+
+
+body {
+  background-image: url('./assets/sa.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.dalai {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 99vh;
+  color: white;
+  font-size: 50px;
+}
